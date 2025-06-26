@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ch1Zume
 - 👀 I’m interested in AI chatbot
-- 🌱 I’m currently learning LLM quantization
+- 🌱 I’m currently learning LLM 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zrq1264390516@gmail.com
 - 😄 Pronouns: ...
